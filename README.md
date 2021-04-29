@@ -1,6 +1,6 @@
 # CocoSketch
 
-## About this repo
+## About this repository
 
 - `CPU`: CocoSketch and other baseline algorithms implemented on CPU
 - `FPGA`: CocoSketch implemented on FPGA
