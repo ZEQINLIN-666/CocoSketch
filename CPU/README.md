@@ -22,5 +22,5 @@ How to run
 ```bash
 $ cmake .
 $ make
-$ ./CPU your-dataset
+$ ./CPU
 ```
