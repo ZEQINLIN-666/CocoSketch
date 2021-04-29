@@ -1,16 +1,16 @@
-## P4 implementation
+P4 implementation of CocoSketch and Elastic Sketch
+===========
 
-The p4 implementation of *Elastic sketch* and *CocoSketch*.
-
-#### File Description
+File Description
+--------------------
 
 * `elastic/` includes the p4 implementation of *Elastic sketch*. 
   * `elastic.p4` is the basic version.
   * `elastic_par4.p4` is the version for measuring 4 keys, which is used in experiments.
 * `CocoSketch` includes the p4 implementation of *CocoSketch*.
 
-#### Requirements
-
+Experimental Setup
+--------------------
 * Please compile and run the codes on Tofino ASIC.
 
 
